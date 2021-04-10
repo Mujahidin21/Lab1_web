@@ -1,1 +1,3 @@
-# Lab1_web
+# Lab2_Belajar_CSS
+## Belajar CSS Dasar
+### Membuat halaman pertama
